@@ -1,0 +1,7 @@
+torch>=1.8.0
+numpy
+scikit-learn
+transformers
+scipy
+faiss
+
