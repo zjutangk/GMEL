@@ -1,4 +1,4 @@
-# [AAAI 2026] Group-aware Multiscale Ensemble Learning for Test-Time Multimodal Sentiment Analysis
+# GMEL
 
 [AAAI 2026] Official PyTorch implementation of the paper "Group-aware Multiscale Ensemble Learning for Test-Time Multimodal Sentiment Analysis".
 
