@@ -47,7 +47,7 @@ run code fro the estiamtion of intent group number K (e.g., MOSEI):
 python estimate_k.py --datapath /home/zjusst/tk/multi-model-sentiment/small_dataset/mosei.pkl --dataset mosei --initial_k 50 --batch_size 64 
 ```
 
-### Step 2: Test-Time Adaptation (TTA)
+### Step 3: Test-Time Adaptation
 
 After pre-training, you can perform test-time adaptation or evaluation (e.g. MOSI2SIMS). 
 ```bash
